@@ -9,7 +9,6 @@ C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\IPQC Auto Data\IPQC Auto Data\IPQC
 C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\MetroFramework.Fonts.dll
 C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\AutoItX3.Assembly.xml
 C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\obj\Debug\IQC Auto Data.csproj.AssemblyReference.cache
-C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\obj\Debug\IQC_Auto_Data.Form1.resources
 C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\obj\Debug\IPQC_Auto_Data.Properties.Resources.resources
 C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\obj\Debug\IQC Auto Data.csproj.GenerateResource.cache
 C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\obj\Debug\IQC Auto Data.csproj.CoreCompileInputs.cache
@@ -25,3 +24,4 @@ C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\IPQC Auto Data\IPQC Auto Data\IPQC
 C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\System.Buffers.xml
 C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\System.Memory.xml
 C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\obj\Debug\IQC_Auto_Data.FormMain.resources
