@@ -25,3 +25,30 @@ C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\IPQC Auto Data\IPQC Auto Data\IPQC
 C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\System.Memory.xml
 C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\obj\Debug\IQC_Auto_Data.FormMain.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\AutoItX3.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\AutoItX3_x64.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\IPQC Auto Data.exe.config
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\IPQC Auto Data.exe
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\IPQC Auto Data.pdb
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\CsvHelper.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\MetroFramework.Design.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\MetroFramework.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\System.Buffers.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\System.Memory.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\System.ValueTuple.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\CsvHelper.xml
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\System.Buffers.xml
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\System.Memory.xml
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\obj\Debug\IQC Auto Data.csproj.AssemblyReference.cache
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\obj\Debug\IQC_Auto_Data.FormMain.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\obj\Debug\IPQC_Auto_Data.Properties.Resources.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\obj\Debug\IQC Auto Data.csproj.GenerateResource.cache
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\obj\Debug\IQC Auto Data.csproj.CoreCompileInputs.cache
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\obj\Debug\IQC Auto.DB6F6CD2.Up2Date
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\obj\Debug\IPQC Auto Data.exe
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\12.IPQC Auto Data\IPQC Auto Data\IPQC Auto Data\obj\Debug\IPQC Auto Data.pdb

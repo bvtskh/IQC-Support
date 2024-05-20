@@ -206,39 +206,6 @@ namespace IQC_Auto_Data
                 {
                     return null;
                 }
-
-                // Get all CSV files starting with the specified string in the folder and its subfolders
-                //string[] csvFiles = Directory.GetFiles(folderPath, $"{partNo}*.csv", System.IO.SearchOption.AllDirectories);
-
-                //if (csvFiles.Length > 0)
-                //{
-                //     Initialize variables to track the most recent file
-                //    string mostRecentFile = "";
-                //    DateTime maxCreationTime = DateTime.MinValue;
-
-                //    foreach (string file in csvFiles)
-                //    {
-                //        FileInfo fileInfo = new FileInfo(file);
-                //        DateTime creationTime = fileInfo.CreationTime;
-
-                //         Check if the current file has a creation time greater than the maximum found so far
-                //        if (creationTime > maxCreationTime)
-                //        {
-                //            maxCreationTime = creationTime;
-                //            mostRecentFile = file;
-                //        }
-                //    }
-
-                //    if (!string.IsNullOrEmpty(mostRecentFile))
-                //    {
-                //      return mostRecentFile;    
-                //    }
-                //    return null;
-                //}
-                //else
-                //{
-                //    return null;
-                //}
             }
             else
             {
