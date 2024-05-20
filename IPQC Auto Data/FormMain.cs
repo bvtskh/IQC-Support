@@ -278,7 +278,6 @@ namespace IQC_Auto_Data
             // Show the dialog and capture the result
             DialogResult result = folderBrowserDialog.ShowDialog();
 
-            // If the user clicks OK, display the selected folder path
             if (result == DialogResult.OK)
             {
                 txtFolder.Text = folderBrowserDialog.SelectedPath;
