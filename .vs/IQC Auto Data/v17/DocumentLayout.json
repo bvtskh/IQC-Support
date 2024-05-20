@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\u42107\\Desktop\\ThanhDX\\Thanh_Project\\IPQC Auto Data\\IPQC Auto Data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{519B8F6A-4A6A-440B-B431-E8F08BB10375}|IPQC Auto Data\\IQC Auto Data.csproj|c:\\users\\u42107\\desktop\\thanhdx\\thanh_project\\ipqc auto data\\ipqc auto data\\ipqc auto data\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519B8F6A-4A6A-440B-B431-E8F08BB10375}|IPQC Auto Data\\IQC Auto Data.csproj|solutionrelative:ipqc auto data\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519B8F6A-4A6A-440B-B431-E8F08BB10375}|IPQC Auto Data\\IQC Auto Data.csproj|C:\\Users\\u42107\\Desktop\\ThanhDX\\Thanh_Project\\IPQC Auto Data\\IPQC Auto Data\\ipqc auto data\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{519B8F6A-4A6A-440B-B431-E8F08BB10375}|IPQC Auto Data\\IQC Auto Data.csproj|solutionrelative:ipqc auto data\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519B8F6A-4A6A-440B-B431-E8F08BB10375}|IPQC Auto Data\\IQC Auto Data.csproj|c:\\users\\u42107\\desktop\\thanhdx\\thanh_project\\ipqc auto data\\ipqc auto data\\ipqc auto data\\datainfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519B8F6A-4A6A-440B-B431-E8F08BB10375}|IPQC Auto Data\\IQC Auto Data.csproj|solutionrelative:ipqc auto data\\datainfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519B8F6A-4A6A-440B-B431-E8F08BB10375}|IPQC Auto Data\\IQC Auto Data.csproj|C:\\Users\\u42107\\Desktop\\ThanhDX\\Thanh_Project\\IPQC Auto Data\\IPQC Auto Data\\ipqc auto data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519B8F6A-4A6A-440B-B431-E8F08BB10375}|IPQC Auto Data\\IQC Auto Data.csproj|solutionrelative:ipqc auto data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519B8F6A-4A6A-440B-B431-E8F08BB10375}|IPQC Auto Data\\IQC Auto Data.csproj|C:\\Users\\u42107\\Desktop\\ThanhDX\\Thanh_Project\\IPQC Auto Data\\IPQC Auto Data\\ipqc auto data\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519B8F6A-4A6A-440B-B431-E8F08BB10375}|IPQC Auto Data\\IQC Auto Data.csproj|solutionrelative:ipqc auto data\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataInfo.cs",
+              "DocumentMoniker": "C:\\Users\\u42107\\Desktop\\ThanhDX\\Thanh_Project\\IPQC Auto Data\\IPQC Auto Data\\IPQC Auto Data\\DataInfo.cs",
+              "RelativeDocumentMoniker": "IPQC Auto Data\\DataInfo.cs",
+              "ToolTip": "C:\\Users\\u42107\\Desktop\\ThanhDX\\Thanh_Project\\IPQC Auto Data\\IPQC Auto Data\\IPQC Auto Data\\DataInfo.cs",
+              "RelativeToolTip": "IPQC Auto Data\\DataInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:16:46.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\u42107\\Desktop\\ThanhDX\\Thanh_Project\\IPQC Auto Data\\IPQC Auto Data\\IPQC Auto Data\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "IPQC Auto Data\\FormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\u42107\\Desktop\\ThanhDX\\Thanh_Project\\IPQC Auto Data\\IPQC Auto Data\\IPQC Auto Data\\FormMain.Designer.cs",
+              "RelativeToolTip": "IPQC Auto Data\\FormMain.Designer.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAmwF8AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:32:50.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\u42107\\Desktop\\ThanhDX\\Thanh_Project\\IPQC Auto Data\\IPQC Auto Data\\IPQC Auto Data\\Program.cs",
+              "RelativeDocumentMoniker": "IPQC Auto Data\\Program.cs",
+              "ToolTip": "C:\\Users\\u42107\\Desktop\\ThanhDX\\Thanh_Project\\IPQC Auto Data\\IPQC Auto Data\\IPQC Auto Data\\Program.cs",
+              "RelativeToolTip": "IPQC Auto Data\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:25:34.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\u42107\\Desktop\\ThanhDX\\Thanh_Project\\IPQC Auto Data\\IPQC Auto Data\\IPQC Auto Data\\FormMain.cs",
+              "RelativeDocumentMoniker": "IPQC Auto Data\\FormMain.cs",
+              "ToolTip": "C:\\Users\\u42107\\Desktop\\ThanhDX\\Thanh_Project\\IPQC Auto Data\\IPQC Auto Data\\IPQC Auto Data\\FormMain.cs [Design]",
+              "RelativeToolTip": "IPQC Auto Data\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T01:32:56.995Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\u42107\\Desktop\\ThanhDX\\Thanh_Project\\IPQC Auto Data\\IPQC Auto Data\\IPQC Auto Data\\FormMain.cs",
+              "RelativeDocumentMoniker": "IPQC Auto Data\\FormMain.cs",
+              "ToolTip": "C:\\Users\\u42107\\Desktop\\ThanhDX\\Thanh_Project\\IPQC Auto Data\\IPQC Auto Data\\IPQC Auto Data\\FormMain.cs",
+              "RelativeToolTip": "IPQC Auto Data\\FormMain.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAmwGIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T03:16:21.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
